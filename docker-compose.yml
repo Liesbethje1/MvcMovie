@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  mvcmovie:
-    image: mvcmovie
-    build:
-      context: .
-      dockerfile: MvcMovie\Dockerfile
